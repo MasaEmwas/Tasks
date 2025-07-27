@@ -1,0 +1,15 @@
+/Users/masaemwas/Desktop/Tasks/bin/Debug/net7.0/Tasks
+/Users/masaemwas/Desktop/Tasks/bin/Debug/net7.0/Tasks.deps.json
+/Users/masaemwas/Desktop/Tasks/bin/Debug/net7.0/Tasks.runtimeconfig.json
+/Users/masaemwas/Desktop/Tasks/bin/Debug/net7.0/Tasks.dll
+/Users/masaemwas/Desktop/Tasks/bin/Debug/net7.0/Tasks.pdb
+/Users/masaemwas/Desktop/Tasks/obj/Debug/net7.0/Tasks.csproj.AssemblyReference.cache
+/Users/masaemwas/Desktop/Tasks/obj/Debug/net7.0/Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masaemwas/Desktop/Tasks/obj/Debug/net7.0/Tasks.AssemblyInfoInputs.cache
+/Users/masaemwas/Desktop/Tasks/obj/Debug/net7.0/Tasks.AssemblyInfo.cs
+/Users/masaemwas/Desktop/Tasks/obj/Debug/net7.0/Tasks.csproj.CoreCompileInputs.cache
+/Users/masaemwas/Desktop/Tasks/obj/Debug/net7.0/Tasks.dll
+/Users/masaemwas/Desktop/Tasks/obj/Debug/net7.0/refint/Tasks.dll
+/Users/masaemwas/Desktop/Tasks/obj/Debug/net7.0/Tasks.pdb
+/Users/masaemwas/Desktop/Tasks/obj/Debug/net7.0/Tasks.genruntimeconfig.cache
+/Users/masaemwas/Desktop/Tasks/obj/Debug/net7.0/ref/Tasks.dll
