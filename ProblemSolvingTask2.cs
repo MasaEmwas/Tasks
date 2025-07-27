@@ -6,14 +6,14 @@ namespace ProblemSolvingTask2
 {
     class Program
     {
-        static void Main(string[] args)
-        {
+        // static void Main(string[] args)
+        // {
 
-            char result = findChar("maysam");
-            Console.WriteLine(result);
+        //     char result = findChar("maysam");
+        //     Console.WriteLine(result);
 
 
-        }
+        // }
 
         static char findChar(string name) //"maysam"
         {       
