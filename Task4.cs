@@ -1,16 +1,12 @@
-
-using System;
-using System.Linq;
-
-namespace ProblemSolvingTask1
+namespace ProblemSolvingTasks
 {
-    class Program
+    public class Task4
     {
-        static void Main(string[] args)
+        public static void Run()
         {
-
-           // int[] numbers = new int[0];
-            int[] numbers = { 10, 4, 22, 12, 33, 44 }; // sort from largest to smallest 44, 33, 22, 12, 10, 4
+            Console.WriteLine("\nTask 4 running: sort an array of integers in ascending order\n");
+             
+            int[] numbers = { 10, 4, 22, 12, 33, 44 }; // sort ascending from smallest to largest 4, 10, 12, 22, 33, 44
             if (numbers.Length > 1)
             {
                 for (int i = 0; i < numbers.Length - 1; i++)
@@ -19,7 +15,7 @@ namespace ProblemSolvingTask1
                     for (int j = i + 1; j < numbers.Length; j++)
                     {
 
-                        if (numbers[i] < numbers[j])
+                        if (numbers[i] > numbers[j])
                         {
                             int temp = numbers[i]; // temp = 22
                             numbers[i] = numbers[j];
@@ -32,25 +28,15 @@ namespace ProblemSolvingTask1
                     Console.WriteLine(i);
 
                 }
-                Console.WriteLine("Second Largest Number: " + numbers[1]);
-
-
-
             }
             else if (numbers.Length == 1)
             {
                 Console.WriteLine("There is only one element in the array");
-
-
             }
             else
             {
                 Console.WriteLine("The array is empty");
             }
-            
         }
-
     }
-   
 }
-
