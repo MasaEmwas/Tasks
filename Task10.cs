@@ -9,7 +9,7 @@ namespace ProblemSolvingTasks
     {
         public static async Task Run()
         {
-            Console.WriteLine("\nTask 10 running: Multithreaded Prime Number Finder\n");
+            Console.WriteLine("\nTask 10 running: Multithreaded Prime Number Finder: Use Task and async/await to find all prime numbers between 1 and 1,000,000 efficiently\n");
             int max = 1000000;
             int number = max / 4;
 
