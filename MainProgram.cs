@@ -4,7 +4,9 @@ namespace ProblemSolvingTasks
 {
     class Program
     {
-        static void Main(string[] args)
+        // previously it was "static void Main(string[] args)", Now its:" static async Task Main(string[] args)"
+        //since I am calling the async Task method from the Main method, the Main method should be async to await task10 
+        static async Task Main(string[] args)
         {
             Console.WriteLine("running remaining tasks(3-6)");
             Task1.Run();
@@ -16,6 +18,7 @@ namespace ProblemSolvingTasks
             Task7.Run();
             Task8.Run();
             Task9.Run();
+            await Task10.Run(); // wait until this task is completed before exiting the program
         }
     }
 }
