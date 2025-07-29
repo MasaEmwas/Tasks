@@ -19,6 +19,9 @@ namespace ProblemSolvingTasks
             Task8.Run();
             Task9.Run();
             await Task10.Run(); // wait until this task is completed before exiting the program
-        }
+            Task11.Run();
+            Task12.Run();
+            Task13.Run();
+        }   
     }
 }
