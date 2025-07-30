@@ -24,7 +24,5 @@ namespace ProblemSolvingTasks
             return reversedString;
 
         }
-
-
     }
 }

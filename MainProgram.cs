@@ -22,6 +22,7 @@ namespace ProblemSolvingTasks
             Task11.Run();
             Task12.Run();
             Task13.Run();
+            Task14.Run();
         }   
     }
 }
