@@ -23,8 +23,8 @@ namespace ProblemSolvingTasks
             // Task12.Run();
             // Task13.Run();
             // Task14.Run();
-            //Task15.Run();
-           // Task16.Run();
+            Task15.Run();
+            Task16.Run();
             Task17.Run();
         }   
     }
